@@ -4,7 +4,7 @@ import Card from "../components/Card";
 const BlogPage = () => {
   return (
     <div>
-      <div className="max-w-screen-2xl container mx-auto xl:px-24 bg-gradient-to-r from-0% from-[#FAFAFA] to-[#FCFCFC] to-100%">
+      <div className="max-w-screen-2xl container mx-auto xl:px-24 bg-gradient-to-r from-0% from-[#FAFAFA] to-[#FCFCFC] to-100% ">
         <div className="py-24 flex flex-col  items-center justify-between gap-8">
           <h2 className="md:text-4xl text-4xl font-bold md:leading-snug leading-snug">
             Blog
