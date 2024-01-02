@@ -63,7 +63,7 @@ const Navbar = () => {
               <a href="/termsPolicy">policy & terms</a>
             </li>
             <li>
-              <a href="/registration">registration page</a>
+              <a href="/registration">registration</a>
             </li>
             <li>
               <a href="/blog">blog</a>

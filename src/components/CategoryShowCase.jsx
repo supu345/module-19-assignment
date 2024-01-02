@@ -1,6 +1,5 @@
 import React, { useState } from "react";
-import Img1 from "/images/shape-img/01.jpg";
-import Img2 from "/images/shape-img/02.png";
+
 import { FaStar } from "react-icons/fa";
 import Ratting from "./Ratting";
 import { Link } from "react-router-dom";
